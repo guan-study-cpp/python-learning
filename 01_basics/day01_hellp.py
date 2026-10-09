@@ -1,2 +1,2 @@
 name = input("请输入你的名字：")
-print(f"你好，{name}！欢迎开始学习 python 编程!")
+print(f"你好，{name}！欢迎开始学习 python 我的世界!")
